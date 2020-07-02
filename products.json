@@ -1,0 +1,24 @@
+{
+  products: [
+      {
+          "id":"1",
+          "ProductName":"Moto G5",
+          "qty":"2"
+      },
+      {
+          "id":"2",
+          "ProductName":"Recold Geyser",
+          "qty":"3"
+      },
+      {
+          "id":"3",
+          "ProductName":"Dell inspiration",
+          "qty":"1"
+      },
+      {
+          "id":"4",
+          "ProductName":"Logitech Keyboard",
+          "qty":"4"
+      }
+  ]
+}
